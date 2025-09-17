@@ -21,7 +21,7 @@ public class StudentList {
         //array of object declaration
         //create object
         Student s1 = new Student();
-        s1.setName("peter");
+        s1.setName("Shiv");
         s1.setSid(1);
          Student s2 = new Student();
         s2.setName("tarun");
